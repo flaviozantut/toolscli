@@ -1,4 +1,4 @@
-## toolscli - Laravel tolls for comand line
+## toolscli - Laravel tools for comand line
 
 
 
