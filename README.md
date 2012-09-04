@@ -18,7 +18,6 @@ Installation with Laravel Artisan
 
 	php artisan toolscli::build [task] [parameters]
 
-use -c to compress css file
 
 ## suported tasks
 
