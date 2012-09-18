@@ -22,6 +22,8 @@ Installation with Laravel Artisan
 ## suported tasks
 
 * [less](/flaviozantut/toolscli/blob/master/docs/less.md)
+* [coffeescript](/flaviozantut/toolscli/blob/master/docs/coffeescript.md)
+
 
 ## Future tasks
 
