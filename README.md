@@ -29,5 +29,4 @@ Installation with Laravel Artisan
 
 * Minify and combine javascript
 * sass
-* install html5boilerplate
 * suggestions???
